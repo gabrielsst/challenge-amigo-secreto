@@ -9,10 +9,16 @@ Este projeto é uma aplicação web simples para realizar sorteios de amigo secr
 - JavaScript (DOM Manipulation)
 
 ## Como Executar o Projeto
+
+# Faça este passo se deseja acessar localmente:
+
 1. Faça o download ou clone este repositório.
 2. Abra o arquivo `index.html` em um navegador.
 3. Digite os nomes dos participantes e clique em "Adicionar".
 4. Após inserir todos os nomes, clique em "Sortear amigo" para realizar o sorteio.
+
+# Se quiser acessar o site, clique neste link:
+<a href="https://gabrielsst.github.io/challenge-amigo-secreto/">https://gabrielsst.github.io/challenge-amigo-secreto/</a>
 
 ## Funcionalidades
 - Adicionar nomes à lista de participantes.
